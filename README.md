@@ -1,0 +1,3 @@
+# smc
+lihioh
+//transcribe//
