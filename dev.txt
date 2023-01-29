@@ -1,0 +1,6 @@
+uvicorn main:app --reload
+sudo service nginx restart
+#!/bin/bash
+sudo systemctl start nginx
+cd /etc/systemd/system
+sudo systemctl start trans.service
